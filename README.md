@@ -33,15 +33,4 @@
 
 <h2></h2><br>
 
-<!-- Contact Me -->
-<p align="center">
-    <samp>
-      <a href="https://twitter.com/habernaud" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-2CA5E0?style=for-the-badge&logo=twitter&logoColor=white"></a>
-      <!--<a href="https://discord.com/users/TheLastLost#1037" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a></a>-->
-      <h2></h2><br>
-      <img src="https://komarev.com/ghpvc/?username=th3l4stl0st&label=Profile+Views&color=2E3440" alt="th3l4stl0st" /> 
-    </samp>
-</p>
-
-<!-- Github Stats -->
 
