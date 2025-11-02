@@ -8,7 +8,7 @@
             <b>
             Hello There
         <br>
-            I'm th3l4stl0st, a Computer Engineer and Linux enthusiast.
+            I'm th3l4stl0st, a Computer Engineer, FullStack Developer and Linux enthusiast.
             </b>
         <br>
         <br>
