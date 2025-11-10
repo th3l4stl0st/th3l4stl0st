@@ -7,7 +7,9 @@
             <b>
             Hello There
         <br>
-            I'm th3l4stl0st, a Computer Engineer, FullStack Developer and Linux enthusiast.
+            I'm th3l4stl0st — Computer Engineer, FullStack Developer
+        <br>
+            and currently developing AI-powered tools.
             </b>
         <br>
         <br>
